@@ -1,4 +1,4 @@
-# Potafolio de Evidencias (Laboratorio de Programación para Ciberseguridad)
+# Portafolio de Evidencias (Laboratorio de Programación para Ciberseguridad)
 
 _Este fue un portafolio desarrollado para la materia de **"Laboratorio de Programación para Ciberseguridad"**._
 
@@ -6,7 +6,7 @@ _Este fue un portafolio desarrollado para la materia de **"Laboratorio de Progra
 
 _Es un portafolio en donde se encuentran los resultados y programas de las prácticas realizadas a lo largo de ese semestre._
 
-### Estructura 📋
+## Estructura 📋
 
 _Las diversas prácticas están basadas en **Python, bash y PowerShell**, no en todas las prácticas están basadas en los tres lenguajes mencionados con anterioridad, puesto que cada práctica tiene su respectivo lenguaje de programación._
 
